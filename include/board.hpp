@@ -1,6 +1,5 @@
 #pragma once
 #include <vector>
-#include <functional>
 
 class Board {
     public:
